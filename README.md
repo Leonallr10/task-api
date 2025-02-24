@@ -27,8 +27,8 @@
 Clone the repository to your local machine to work with the project files.
 
 ```bash
-git clone https://github.com/Leonallr10/kaiburr_Java_backend-REST_API.git
-cd kaiburr_Java_backend-REST_API
+git clone https://github.com/Leonallr10/task-api.git
+cd task-api
 ```
 
 ## Project Setup
